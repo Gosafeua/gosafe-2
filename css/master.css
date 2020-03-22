@@ -112,7 +112,9 @@ h2 {
    footer {
      order: 2;
    }
-
+footer a {
+  color: white;
+}
    /*end of changes*/
 
    .flex-wrapper {
