@@ -54,6 +54,10 @@ footer {
   /* background-color: #96D1C7; */
 }
 
+footer > a {
+  color: white;
+}
+
 article {
   grid-column: 2/3;
   grid-row: 2/3;
@@ -112,9 +116,7 @@ h2 {
    footer {
      order: 2;
    }
-footer a {
-  color: white;
-}
+
    /*end of changes*/
 
    .flex-wrapper {
