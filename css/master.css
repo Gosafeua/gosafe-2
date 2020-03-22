@@ -72,7 +72,7 @@ article {
   /* height: 1500px; */
   /* margin: 1500px; */
   background-color: lightblue;
-  flex-grow: 1;
+  flex-grow: 0;
   margin: 0 20px;
   color: black;
   /* padding: 0; */
