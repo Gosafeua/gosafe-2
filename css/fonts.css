@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
 	src: url('../fonts/OpenSans-Regular.ttf');
 	font-family: 'OpenSans Regular';
@@ -22,3 +23,29 @@
 	src: url('../fonts/OpenSans-ExtraBold.ttf');
 	font-family: 'OpenSans ExtraBold';
 }
+=======
+@font-face {
+	src: url('../fonts/OpenSans-Regular.ttf');
+	font-family: 'OpenSans Regular';
+}
+
+@font-face {
+	src: url('../fonts/OpenSans-Italic.ttf');
+	font-family: 'OpenSans Italic';
+}
+
+@font-face {
+	src: url('../fonts/OpenSans-Bold.ttf');
+	font-family: 'OpenSans Bold';
+}
+
+@font-face {
+	src: url('../fonts/OpenSans-SemiBold.ttf');
+	font-family: 'OpenSans SemiBold';
+}
+
+@font-face {
+	src: url('../fonts/OpenSans-ExtraBold.ttf');
+	font-family: 'OpenSans ExtraBold';
+}
+>>>>>>> 72d9a7dce6ce8dad9c605a639727fedf39779004
